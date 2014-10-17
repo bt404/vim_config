@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/guojingze/ivtime/embo/embo/templates'
+let g:netrw_dirhist_2='/Users/guojingze/flask_test/angular/static/js'
+let g:netrw_dirhist_3='/Users/guojingze/ivtime/taiben/taiben/workers'
+let g:netrw_dirhist_4='/Users/guojingze/ivtime/embo/embo/templates'
+let g:netrw_dirhist_5='/Users/guojingze/ivtime/embo/embo/views'
+let g:netrw_dirhist_6='/Users/guojingze/ivtime/taiben/taiben/workers'
+let g:netrw_dirhist_7='/Users/guojingze/ivtime/embo/embo'
+let g:netrw_dirhist_8='/Users/guojingze/git_repos/algorithm/std_lib'
