@@ -1,6 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Users/MLS/mls/biz/hornbill/config'
 let g:netrw_dirhist_2='/Users/MLS/git_repos/jquery/build/release'
 let g:netrw_dirhist_3='/Users/MLS/git_repos/jquery/src/attributes'
 let g:netrw_dirhist_4='/Users/MLS/git_repos/share'
+let g:netrw_dirhist_5='/usr/local/lib/node_modules/devtool/node_modules/electron-prebuilt'
+let g:netrw_dirhist_6='/Users/MLS/git_repos/JSDesignPattern/singleton'
+let g:netrw_dirhist_7='/Users/MLS/git_repos/jquery/src/event'
+let g:netrw_dirhist_8='/Users/MLS/git_repos/jquery/src/css'
